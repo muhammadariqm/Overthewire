@@ -459,6 +459,31 @@ sqlmap -u "http://natas14.natas.labs.overthewire.org/" --data "number=3&submit=S
 
 ---
 
+## Level 15
+```
+SdqIqBsFcz3yotlNYErZSZwblkm0lrvx
+```
+
+## Level 16
+```
+hPkjKYviLQctEW33QmuXL6eDVfMW4sGo
+```
+
+## Level 17
+```
+EqjHJbo7LFNb8vwhHb9s75hokh5TF0OC
+```
+
+## Level 18
+```
+6OG1PbKdVjyBlpxgD4DDbRG6ZLlCGgCJ
+```
+
+## Level 19
+```
+p5mCvP7GS2K6Bmt3gqhM2Fc1A5T8MVyw
+```
+
 # 🛠 Tools Used
 
 - Linux Terminal
